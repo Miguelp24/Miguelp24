@@ -3,8 +3,8 @@
 <div align="center">
   <h3>Stats</h3>
   <div>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=marcuscabral21&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=4E1764&text_color=d7d7d7&icon_color=4E1764"/>
-    <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcuscabral21&stroke=ffffff&theme=transparent&ring=4E1764&fire=4E1764&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Miguelp24&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=4E1764&text_color=d7d7d7&icon_color=4E1764"/>
+    <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelp24&stroke=ffffff&theme=transparent&ring=4E1764&fire=4E1764&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
     <br /> 
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscabral21&theme=transparent&hide_border=true&hide_title=true&title_color=4E1764&text_color=ffffff"/>
   </div>
