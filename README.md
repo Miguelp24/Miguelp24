@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F1C232"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=fdbc0a"/>
 
 <a target="_blank" href="https://www.linkedin.com/in/miguel-pinto-594603258/"><img src="https://img.shields.io/badge/-LinkdIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
 
@@ -14,10 +14,11 @@
 ### 🛠️ Tool Kit
 
 <div>
- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
  <img align="left" alt="C-plain" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
  <img align="left" alt="Cplusplus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
  <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+ <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+ <img align="center" alt="matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 
  
 
