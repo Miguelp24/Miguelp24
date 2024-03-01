@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4E1764"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F1C232"/>
 
 <a target="_blank" href="https://www.linkedin.com/in/miguel-pinto-594603258/"><img src="https://img.shields.io/badge/-LinkdIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
 
