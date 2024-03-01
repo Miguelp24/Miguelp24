@@ -2,10 +2,10 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/miguel-pinto-594603258/"><img src="https://img.shields.io/badge/-LinkdIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, I'm Richie
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, I'm Miguel
 ==============================================================================================================================
 
-A Recent Computer Engineering Graduate
+
 
 -   🌍  I'm based in Portugal
 -   💬  Reach out on [Linkedin](https://www.linkedin.com/in/miguel-pinto-594603258/)
