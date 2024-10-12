@@ -7,7 +7,7 @@
 
 
 
--   🌍  I'm based in Portugal
+-   🌍  I'm from Portugal
 -   💬  Reach out on [Linkedin](https://www.linkedin.com/in/miguel-pinto-594603258/)
 -   📖 Studying computer engineer
 
