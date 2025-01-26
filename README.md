@@ -8,6 +8,7 @@
 
 
 -   🌍  I'm from Portugal
+-   🖥️ See my [Portfolio](https://portfolio-miguelpinto.vercel.app/)
 -   💬  Reach out on [Linkedin](https://www.linkedin.com/in/miguel-pinto-594603258/)
 -   📖 Studying computer engineer
 
