@@ -34,8 +34,7 @@
 
 ## 📊 Stats
 <div>
- <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Miguelp24&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=8B0000&text_color=d7d7d7&icon_color=8B0000"/>
- <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguelp24&stroke=ffffff&theme=transparent&ring=8B0000&fire=8B0000&currStreakNum=ffffff&currStreakLabel=8B0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Miguelp24&show_icons=true&hide=prs,issues,contribs&theme=transparent&hide_border=true&hide_title=true&count_private=true&title_color=8B0000&text_color=d7d7d7&icon_color=8B0000"/>
  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelp24&theme=transparent&hide_border=true&hide_title=true&title_color=8B0000&text_color=ffffff"/>
 
 </div>
